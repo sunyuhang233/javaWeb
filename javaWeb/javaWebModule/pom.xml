@@ -11,6 +11,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>Tomcat</module>
+        <module>Response</module>
+        <module>RequestDemo</module>
     </modules>
 
     <properties>

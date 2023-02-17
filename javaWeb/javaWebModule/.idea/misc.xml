@@ -3,12 +3,14 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/RequestDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/Response" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/RequestDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Response/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
